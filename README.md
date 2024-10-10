@@ -1,3 +1,11 @@
+# LUMI-specific README
+1. Setup venv with scripts in lumi_scripts/venv
+2. Clone alignment-handbook repo
+3. Activate venv and load LUMI modules
+4. Inside alignment-handbook, run ´python -m pip install .´
+
+# Alignment Handbook README
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/huggingface/alignment-handbook/main/assets/handbook.png">
 </p>
