@@ -1,8 +1,13 @@
 # LUMI-specific README
 1. Setup venv with **setup_alignment_handbook_venv.sh**
 2. Activate venv and load LUMI modules
-3. Clone alignment-handbook repo
-4. Inside alignment-handbook, run ´python -m pip install´
+3. Clone **alignment-handbook** repo
+4. Inside alignment-handbook, run `python -m pip install`
+
+## Finetuning models
+1. Use **launch_sbatch.sh**
+2. Replace CONFIG_FILE in the launch script with your own recipe.yaml
+3. If running DPO, change CMD to *run_dpo.py* instead of *run_sft.py*
 
 # Alignment Handbook README
 
