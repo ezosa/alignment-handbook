@@ -1,8 +1,8 @@
 # LUMI-specific README
 1. Setup venv with scripts in lumi_scripts/venv
-2. Clone alignment-handbook repo
-3. Activate venv and load LUMI modules
-4. Inside alignment-handbook, run ´python -m pip install .´
+2. Activate venv and load LUMI modules
+3. Clone alignment-handbook repo
+4. Inside alignment-handbook, run ´python -m pip install´
 
 # Alignment Handbook README
 
